@@ -2,7 +2,7 @@
 
 ## Overview
 
-Gitlet is a simplified version-control system inspired by Git. It's designed to help you manage and track changes in your codebase. While smaller and simpler than Git, Gitlet provides essential version-control features, making it a useful tool for understanding fundamental version-control concepts.
+Gitlet is a simplified version-control system inspired by Git. It's designed to manage and track changes in your codebase. While smaller and simpler than Git, Gitlet provides essential version-control features, making it a useful tool for understanding fundamental version-control concepts.
 
 ## Project Description
 
@@ -39,8 +39,6 @@ To use Gitlet, interact with it via the command line. Here are some common comma
 - `gitlet merge <branch-name>`: Merge changes from one branch into the current branch.
 
 - `gitlet status`: Display the current repository status, including staged files and branch information.
-
-For a comprehensive list of commands and their descriptions, refer to the project's detailed specification.
 
 ## Getting Started
 
@@ -82,16 +80,8 @@ Now you can start using Gitlet by running the various commands mentioned earlier
 
 - `Repository.java`: A class managing Gitlet repositories, including commit history and file snapshots.
 
-## Contributing
-
-You're welcome to contribute to this project by opening issues, suggesting improvements, or submitting pull requests. We value community contributions to make Gitlet even better.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-This project was inspired by Git, the powerful version-control system used by developers worldwide. We also thank the creators of the Gitlet project for providing initial specifications and inspiration for this simplified version-control system.
+This project was inspired by Git, the powerful version-control system used by developers worldwide. I also thank the creators of the Gitlet project for providing initial specifications and inspiration for this simplified version-control system.
 
 Enjoy using Gitlet for your version-control needs!
