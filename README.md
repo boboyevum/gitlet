@@ -4,6 +4,8 @@
 
 Gitlet is a simplified version-control system inspired by Git. It's designed to manage and track changes in your codebase. While smaller and simpler than Git, Gitlet provides essential version-control features, making it a useful tool for understanding fundamental version-control concepts.
 
+Completed as part of the CS 61B course at UC Berkeley.
+
 ## Project Description
 
 Gitlet allows you to:
